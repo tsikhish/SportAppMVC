@@ -145,3 +145,4 @@ C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\refint\MvcProj.dll
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.pdb
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.genruntimeconfig.cache
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\ref\MvcProj.dll
+C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.sourcelink.json
