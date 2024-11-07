@@ -146,3 +146,5 @@ C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.pdb
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.genruntimeconfig.cache
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\ref\MvcProj.dll
 C:\Users\Mari\source\repos\MvcProj\MvcProj\obj\Debug\net8.0\MvcProj.sourcelink.json
+C:\Users\Mari\source\repos\MvcProj\MvcProj\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\Mari\source\repos\MvcProj\MvcProj\bin\Debug\net8.0\Newtonsoft.Json.dll

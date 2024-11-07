@@ -6,7 +6,6 @@ namespace MvcProj.Models
 {
     public class Race
     {
-        internal object RaceCategory;
 
         [Key]
         public int Id { get; set; }
