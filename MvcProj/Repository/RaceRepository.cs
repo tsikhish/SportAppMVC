@@ -13,16 +13,16 @@ namespace MvcProj.Repository
         {
             _context = context;
         }
-        public bool Add(Race race)
+        public async Task Add(Race race)
         {
             _context.Add(race);
-            return true;
+            await Save();
         }
 
-        public bool Delete(Race race)
+        public async Task Delete(Race race)
         {
             _context.Remove(race);
-            return true;
+            await Save();
         }
 
         public async Task<IEnumerable<Race>> GetAll()
@@ -42,16 +42,16 @@ namespace MvcProj.Repository
                 .Where(x => x.Address.City == city).ToListAsync();
         }
 
-        public bool Save()
+        public async Task<bool> Save()
         {
-            var saved = _context.SaveChanges();
+            var saved = await _context.SaveChangesAsync();
             return saved > 0 ? true : false;
         }
 
-        public bool Update(Race race)
+        public async Task Update(Race race)
         {
             _context.Update(race);
-            return true;
+            await Save();
         }
     }
 }
