@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Mari\\source\\repos\\MvcProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\race\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\club\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\club\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\viewmodels\\editraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\viewmodels\\editclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\viewmodels\\editclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\race\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,56 +99,20 @@
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\race\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\models\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\helpers\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\repository\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\interfaces\\iracerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\data\\enum\\racecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\data\\enum\\clubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|solutionrelative:mvcproj\\views\\club\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7798357D-0B79-4ECA-B62C-5114CCC1BD9A}|MvcProj\\MvcProj.csproj|c:\\users\\mari\\source\\repos\\mvcproj\\mvcproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -157,102 +173,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 364,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Create.cshtml",
-              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Create.cshtml",
-              "RelativeToolTip": "MvcProj\\Views\\Race\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Edit.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Race\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T00:27:54.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Index.cshtml",
-              "RelativeToolTip": "MvcProj\\Views\\Race\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T08:32:39.461Z",
+              "WhenOpened": "2024-11-08T22:39:52.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Program.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Program.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Program.cs",
-              "RelativeToolTip": "MvcProj\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Repository\\ClubRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\ClubRepository.cs",
+              "RelativeToolTip": "MvcProj\\Repository\\ClubRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:10:39.418Z",
+              "WhenOpened": "2024-11-06T19:52:40.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Data\\Seed.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Seed.cs",
-              "RelativeToolTip": "MvcProj\\Data\\Seed.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAJwAAAAfAAAA",
+              "DocumentIndex": 4,
+              "Title": "RaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\RaceController.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Controllers\\RaceController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\RaceController.cs",
+              "RelativeToolTip": "MvcProj\\Controllers\\RaceController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAG4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:05:10.929Z",
+              "WhenOpened": "2024-11-06T08:31:52.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\appsettings.json",
-              "RelativeDocumentMoniker": "MvcProj\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\appsettings.json",
-              "RelativeToolTip": "MvcProj\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-06T08:10:20.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Create.cshtml",
-              "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Create.cshtml",
-              "RelativeToolTip": "MvcProj\\Views\\Club\\Create.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T21:54:23.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClubController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\ClubController.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Controllers\\ClubController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\ClubController.cs",
-              "RelativeToolTip": "MvcProj\\Controllers\\ClubController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACYAAAA+AAAA",
+              "Title": "RaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\RaceRepository.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Repository\\RaceRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\RaceRepository.cs",
+              "RelativeToolTip": "MvcProj\\Repository\\RaceRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA8wCcAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:06:48.313Z",
+              "WhenOpened": "2024-11-06T20:02:43.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IPhotoService.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IPhotoService.cs",
               "RelativeDocumentMoniker": "MvcProj\\Interfaces\\IPhotoService.cs",
@@ -265,124 +242,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PhotoService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Services\\PhotoService.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Services\\PhotoService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Services\\PhotoService.cs",
-              "RelativeToolTip": "MvcProj\\Services\\PhotoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "DocumentIndex": 6,
+              "Title": "IRaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IRaceRepository.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Interfaces\\IRaceRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IRaceRepository.cs",
+              "RelativeToolTip": "MvcProj\\Interfaces\\IRaceRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T00:45:16.951Z",
+              "WhenOpened": "2024-11-06T20:00:42.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Detail.cshtml",
-              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Detail.cshtml",
-              "RelativeToolTip": "MvcProj\\Views\\Race\\Detail.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAArwBgAAAAoAAAA",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Edit.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Club\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T11:52:45.254Z",
+              "WhenOpened": "2024-11-08T15:04:41.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Race.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Race.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Models\\Race.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Race.cs",
-              "RelativeToolTip": "MvcProj\\Models\\Race.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:01:29.573Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Index.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Race\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:32:39.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RaceController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\RaceController.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Controllers\\RaceController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\RaceController.cs",
-              "RelativeToolTip": "MvcProj\\Controllers\\RaceController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAWwDsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:31:52.994Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Index.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Club\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:07:13.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CreateRaceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\CreateRaceViewModel.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeToolTip": "MvcProj\\ViewModels\\CreateRaceViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "EditRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\EditRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\EditRaceViewModel.cs",
+              "RelativeToolTip": "MvcProj\\ViewModels\\EditRaceViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T08:51:13.726Z",
+              "WhenOpened": "2024-11-08T22:33:49.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Club.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Club.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Models\\Club.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Club.cs",
-              "RelativeToolTip": "MvcProj\\Models\\Club.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAjwAwAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "EditClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\EditClubViewModel.cs",
+              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\EditClubViewModel.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\EditClubViewModel.cs",
+              "RelativeToolTip": "MvcProj\\ViewModels\\EditClubViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:00:58.4Z",
+              "WhenOpened": "2024-11-08T15:07:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClubController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\ClubController.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Controllers\\ClubController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\ClubController.cs",
+              "RelativeToolTip": "MvcProj\\Controllers\\ClubController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwHEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:06:48.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "CreateClubViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateClubViewModel.cs",
-              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\CreateClubViewModel.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateClubViewModel.cs",
-              "RelativeToolTip": "MvcProj\\ViewModels\\CreateClubViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T01:01:22.906Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Create.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Club\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T21:54:23.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "IClubRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IClubRepository.cs",
               "RelativeDocumentMoniker": "MvcProj\\Interfaces\\IClubRepository.cs",
               "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IClubRepository.cs",
               "RelativeToolTip": "MvcProj\\Interfaces\\IClubRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T19:50:05.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CloudinarySettings.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Helpers\\CloudinarySettings.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Helpers\\CloudinarySettings.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Helpers\\CloudinarySettings.cs",
-              "RelativeToolTip": "MvcProj\\Helpers\\CloudinarySettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T00:40:25.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "ClubCategory.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Enum\\ClubCategory.cs",
               "RelativeDocumentMoniker": "MvcProj\\Data\\Enum\\ClubCategory.cs",
@@ -395,46 +372,142 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\CreateClubViewModel.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateClubViewModel.cs",
+              "RelativeToolTip": "MvcProj\\ViewModels\\CreateClubViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:01:22.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "RaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\RaceRepository.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Repository\\RaceRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\RaceRepository.cs",
-              "RelativeToolTip": "MvcProj\\Repository\\RaceRepository.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswDUAAAAYAAAA",
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Services\\PhotoService.cs",
+              "RelativeToolTip": "MvcProj\\Services\\PhotoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:02:43.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ClubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\ClubRepository.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Repository\\ClubRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Repository\\ClubRepository.cs",
-              "RelativeToolTip": "MvcProj\\Repository\\ClubRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowC8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:52:40.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRaceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IRaceRepository.cs",
-              "RelativeDocumentMoniker": "MvcProj\\Interfaces\\IRaceRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Interfaces\\IRaceRepository.cs",
-              "RelativeToolTip": "MvcProj\\Interfaces\\IRaceRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA2wAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:00:42.13Z",
+              "WhenOpened": "2024-11-07T00:45:16.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\appsettings.json",
+              "RelativeToolTip": "MvcProj\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T08:10:20.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Seed.cs",
+              "RelativeToolTip": "MvcProj\\Data\\Seed.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAJwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:05:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Club.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Models\\Club.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Club.cs",
+              "RelativeToolTip": "MvcProj\\Models\\Club.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:00:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Program.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Program.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Program.cs",
+              "RelativeToolTip": "MvcProj\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:10:39.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Create.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Race\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:27:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MvcProj\\Views\\Race\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Race\\Detail.cshtml",
+              "RelativeToolTip": "MvcProj\\Views\\Race\\Detail.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T11:52:45.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Race.cs",
+              "RelativeToolTip": "MvcProj\\Models\\Race.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:01:29.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateRaceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeDocumentMoniker": "MvcProj\\ViewModels\\CreateRaceViewModel.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\ViewModels\\CreateRaceViewModel.cs",
+              "RelativeToolTip": "MvcProj\\ViewModels\\CreateRaceViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:51:13.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Helpers\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "MvcProj\\Helpers\\CloudinarySettings.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Helpers\\CloudinarySettings.cs",
+              "RelativeToolTip": "MvcProj\\Helpers\\CloudinarySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:40:25.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "RaceCategory.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\Enum\\RaceCategory.cs",
               "RelativeDocumentMoniker": "MvcProj\\Data\\Enum\\RaceCategory.cs",
@@ -442,12 +515,11 @@
               "RelativeToolTip": "MvcProj\\Data\\Enum\\RaceCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:03:26.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:03:26.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\Shared\\_Layout.cshtml",
@@ -455,12 +527,11 @@
               "RelativeToolTip": "MvcProj\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T11:25:32.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T11:25:32.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MvcProj\\Controllers\\HomeController.cs",
@@ -468,25 +539,11 @@
               "RelativeToolTip": "MvcProj\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:32:11.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:32:11.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Index.cshtml",
-              "RelativeToolTip": "MvcProj\\Views\\Club\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T08:07:13.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\Home\\Index.cshtml",
@@ -494,12 +551,11 @@
               "RelativeToolTip": "MvcProj\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAGAAAAAAAAAAAIBJwBYAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:35:26.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T09:35:26.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Club\\Detail.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\Club\\Detail.cshtml",
@@ -507,12 +563,11 @@
               "RelativeToolTip": "MvcProj\\Views\\Club\\Detail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T11:37:01.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T11:37:01.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MvcProj\\Models\\ErrorViewModel.cs",
@@ -520,12 +575,11 @@
               "RelativeToolTip": "MvcProj\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:15:05.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:15:05.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\_ViewStart.cshtml",
@@ -533,12 +587,11 @@
               "RelativeToolTip": "MvcProj\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T09:35:21.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T09:35:21.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\_ViewImports.cshtml",
@@ -546,12 +599,11 @@
               "RelativeToolTip": "MvcProj\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T11:25:10.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T11:25:10.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MvcProj\\Views\\Home\\Privacy.cshtml",
@@ -559,12 +611,11 @@
               "RelativeToolTip": "MvcProj\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T11:25:15.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T11:25:15.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "20241106081419_MVCProject.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Migrations\\20241106081419_MVCProject.cs",
               "RelativeDocumentMoniker": "MvcProj\\Migrations\\20241106081419_MVCProject.cs",
@@ -572,12 +623,11 @@
               "RelativeToolTip": "MvcProj\\Migrations\\20241106081419_MVCProject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:14:19.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:14:19.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -585,12 +635,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAJ0UAAAAAAAAAAAwwIkUAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-11-06T08:24:16.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:24:16.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "MvcProj.csproj",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\MvcProj.csproj",
               "RelativeDocumentMoniker": "MvcProj\\MvcProj.csproj",
@@ -598,12 +647,11 @@
               "RelativeToolTip": "MvcProj\\MvcProj.csproj",
               "ViewState": "AQIAAAMAAAAAAAAAAMBdwAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T08:27:56.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:27:56.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MvcProj\\Data\\ApplicationDbContext.cs",
@@ -611,12 +659,11 @@
               "RelativeToolTip": "MvcProj\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:03:53.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:03:53.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "MvcProj\\Models\\AppUser.cs",
@@ -624,12 +671,11 @@
               "RelativeToolTip": "MvcProj\\Models\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:00:42.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:00:42.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\MvcProj\\MvcProj\\Models\\Address.cs",
               "RelativeDocumentMoniker": "MvcProj\\Models\\Address.cs",
@@ -637,8 +683,7 @@
               "RelativeToolTip": "MvcProj\\Models\\Address.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:00:14.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T08:00:14.029Z"
             }
           ]
         }
