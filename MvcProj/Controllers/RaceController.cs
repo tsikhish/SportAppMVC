@@ -58,5 +58,59 @@ namespace MvcProj.Controllers
             }
             return View(raceVM);
         }
+        public async Task<IActionResult> Edit(int id)
+        {
+            var club = await _raceRepository.GetByIdAsync(id);
+            if (club == null) return View("Error");
+            var clubVM = new EditRaceViewModel
+            {
+                Title = club.Title,
+                Description = club.Description,
+                AddressId = club.AddressId,
+                Address = club.Address,
+                URL = club.Image,
+                RaceCategory = club.RacesCategory
+            };
+            return View(clubVM);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, EditRaceViewModel raceVM)
+        {
+            if (!ModelState.IsValid)
+            {
+                ModelState.AddModelError("", "Failed to edit club");
+                return View("Edit", raceVM);
+            }
+            var userRace = await _raceRepository.GetByIdAsyncNoTracking(id);
+            if (userRace != null)
+            {
+                try
+                {
+                    await _photoService.DeletePhotoAsync(userRace.Image);
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", "Could not delete photo");
+                    return View(raceVM);
+                }
+                var photoResult = await _photoService.AddPhotoAsync(raceVM.Image);
+                var race = new Race
+                {
+                    Id = id,
+                    Title = raceVM.Title,
+                    Description = raceVM.Description,
+                    Image = photoResult.Url.ToString(),
+                    AddressId = raceVM.AddressId,
+                    Address = raceVM.Address,
+                };
+                await _raceRepository.Update(race);
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(raceVM);
+            }
+        }
+
     }
 }
